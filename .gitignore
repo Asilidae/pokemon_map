@@ -1,0 +1,10 @@
+.idea
+
+__pycache__
+media
+pogomap/__pycache__
+pokemon_entities/__pycache__
+pokemon_entities/migrations/__pycache__
+venv
+
+db.sqlite3
